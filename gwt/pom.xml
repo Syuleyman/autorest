@@ -23,7 +23,7 @@
             <version>${project.version}</version>
             <classifier>sources</classifier>
         </dependency>
-        <dependency>
+<!--         <dependency>
             <groupId>com.intendia.gwt</groupId>
             <artifactId>rxjava2-gwt</artifactId>
             <version>${rxjava-gwt.version}</version>
@@ -33,7 +33,7 @@
             <artifactId>rxjava2-gwt</artifactId>
             <version>${rxjava-gwt.version}</version>
             <classifier>sources</classifier>
-        </dependency>
+        </dependency> -->
         <dependency>
             <groupId>com.google.elemental2</groupId>
             <artifactId>elemental2-dom</artifactId>
@@ -51,7 +51,7 @@
             <groupId>com.google.code.findbugs</groupId>
             <artifactId>jsr305</artifactId>
         </dependency>
-        <dependency>
+<!--         <dependency>
             <groupId>com.google.gwt</groupId>
             <artifactId>gwt-user</artifactId>
             <scope>provided</scope>
@@ -60,7 +60,7 @@
             <groupId>com.google.gwt</groupId>
             <artifactId>gwt-dev</artifactId>
             <scope>provided</scope>
-        </dependency>
+        </dependency> -->
     </dependencies>
 
     <build>
